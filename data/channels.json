@@ -1,0 +1,22 @@
+{
+  "white-vanilla-orchids": {
+    "name": "White Vanilla Orchids",
+    "story": "The sweet floral room. Chanel and white vanilla orchids in the air — a full strip club rendered in two nouns (Oliver Francis, 'Slomo'). Slow, bright, wide, builds to the end. The scent-anchored mood channel.",
+    "anchors": ["slomo"]
+  },
+  "porcelain": {
+    "name": "Porcelain",
+    "story": "Piano-ride soul food. Unhurried story told over ~91 BPM keys; the cadence rides the piano attacks (z=+5.1, far above chance) and the lead line wanders 14.5 semitones. The rare animal: a voice that dances with the melody instrument.",
+    "anchors": ["tonedeff_porcelain"]
+  },
+  "razorblade": {
+    "name": "Razorblade",
+    "story": "The dark passenger. Keys pulse underneath while the voice steamrolls the beat grid (67.5% beat lock, piano-lock at chance). A sermon delivered at the engine — Vinnie Paz's lane.",
+    "anchors": ["razorblade_salvation"]
+  },
+  "dread-drift": {
+    "name": "Dread Drift",
+    "story": "The creeper. Flat, steely dread, darkest timbre of the lane, and a voice that actively dodges the piano hits (z=-4.7) threading between them. The drip you can hear: no relief, no brightness, just held tension.",
+    "anchors": ["dance_with_the_devil"]
+  }
+}

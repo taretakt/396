@@ -1,0 +1,17 @@
+# audio — 396 analyzes audio at runtime; it never ships the audio
+*.mp3
+*.webm
+*.wav
+*.m4a
+*.flac
+*.opus
+
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+.pytest_cache/
+build/
+dist/
+_scratch*
+*.sqlite*
